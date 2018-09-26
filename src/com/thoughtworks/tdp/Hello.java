@@ -1,3 +1,5 @@
+package com.thoughtworks.tdp;
+
 public class Hello {
     public static void main(String[] args) {
         new Hello().foo();
